@@ -16,6 +16,8 @@ Read the game narratives and technical requirements carefully. Plan how you will
 
 ![Game Map](escape-room-plan.jpg)
 
+
+
 ### Game Narratives
 
 #### Game Room
@@ -26,9 +28,11 @@ You are now in game room.
 
 What would you like to do?
 
-You explore the room. This is Game Room. You find couch, piano, and Door A.
+You explore the room. This is Game Room. You find couch, piano, chest and Door A.
 
 You examine couch. There isn't anything interesting about it.
+
+You examine the chest. You find there two potions and you need to decide if to take them with you or not. 
 
 You examine Door A. It is locked but you don't have the key.
 
@@ -44,7 +48,9 @@ You are now in Bedroom 1.
 
 What would you like to do?
 
-You explore the room. This is Bedroom 1. You find queen bed, Door A, Door B, and Door C.
+You explore the room. This is Bedroom 1. You find ancient chest, queen bed, Door A, Door B, and Door C.
+
+You examine ancient chest. You find an spider that bites you. You need to use one of the potions that were in the chest to get better. After choosing the right potion you find the code 77 that will be useful in a future step.  
 
 You examine queen bed. You find key for Door B.
 
@@ -60,7 +66,9 @@ You are now in Bedroom 2.
 
 What would you like to do?
 
-You explore the room. This is Bedroom 2. You find double bed, dresser, and Door B.
+You explore the room. This is Bedroom 2. You find suitcase, double bed, dresser, and Door B.
+
+You examine suitcase. You find a bomb and you need to choose one cable to dissarm the bomb. 
 
 You examine double bed. You find key for Door C.
 
@@ -86,9 +94,15 @@ You are now in Living Room.
 
 What would you like to do?
 
-You explore the room. This is Living Room. You find dining table, Door C, and Door D.
+You explore the room. This is Living Room. You find standing lamp, dining table, Door C, Door D and Door E.
 
-You examine Door D. Your unlock it with a key you have.
+You examine standing lamp and you find a key for door E. 
+
+You need to decide to examine Door D or Door E. 
+
+If you decide to examine Door E you will need to start the game again. 
+
+If you decide to examine Door D you will be asked for a password. Your unlock it with a key you have and the password.
 
 Do you want to go to the next room?
 
